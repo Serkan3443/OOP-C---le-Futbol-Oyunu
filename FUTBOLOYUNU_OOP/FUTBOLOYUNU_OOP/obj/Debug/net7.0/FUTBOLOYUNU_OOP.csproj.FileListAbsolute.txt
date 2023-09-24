@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\bin\Debug\net7.0\FUTBOLOYUNU_OOP.exe
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\bin\Debug\net7.0\FUTBOLOYUNU_OOP.deps.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\bin\Debug\net7.0\FUTBOLOYUNU_OOP.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\bin\Debug\net7.0\FUTBOLOYUNU_OOP.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\bin\Debug\net7.0\FUTBOLOYUNU_OOP.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\refint\FUTBOLOYUNU_OOP.dll
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.pdb
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\FUTBOLOYUNU_OOP.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Eğitim Kurs Klasörü\4.08.2023\FUTBOLOYUNU_OOP\FUTBOLOYUNU_OOP\obj\Debug\net7.0\ref\FUTBOLOYUNU_OOP.dll
